@@ -54,14 +54,7 @@ h1 {
 		
 	  }
      
-     a:link, a:visited {
-    background-color: LightCyan;
-    color: white;
-    padding: 14px 25px;
-    text-align: center;
-    }
+   
     
-    a:hover, a:active {
-    background-color: LightCyan;
-    }
-     
+
+    
