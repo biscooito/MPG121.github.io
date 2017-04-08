@@ -1,1 +1,56 @@
 
+h1 {
+        color: 797979;
+        
+     }
+    h2{
+        color: 797979;
+     
+     }  
+    p {
+        color: 797979;
+        
+     }
+    body {
+        background-image: url(https://wallpaperscraft.com/image/deer_minimalism_vector_background_nature_93845_1920x1080.jpg);
+     }
+     
+     img {
+      float: left;
+      text-align:center;
+    }
+    
+    td {
+    padding: 8px
+   
+    }
+    
+    table {
+    border-collapse: collapse;
+    border: 1px solid black
+    
+    } 
+ 	      
+	h1.mari {
+      color: white;
+      background-color: LightBlue;
+      padding: 12px;
+    }
+    
+    footer {
+      color: white;
+      background-color: LightBlue;
+      padding: 5px;
+    }
+    
+     h2.yoo {
+       color: white;
+       background-color: LightBlue;
+	padding: 12px;     
+       
+    }
+	h1.vlw {
+		color: white;
+		
+	  }
+            
