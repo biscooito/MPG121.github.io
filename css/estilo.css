@@ -54,3 +54,42 @@ h1 {
 		
 	  }
             
+
+    h1 {
+        color: 797979;
+        
+     }
+    h2{
+        color: 797979;
+     
+     }  
+    p.1 {
+        color: 797979;
+        
+     }
+     img {
+      float: left;
+      text-align:center;
+    }
+     h1.mari {
+      color: white;
+      background-color: LightBlue;
+      padding: 12px;
+    }
+    
+    footer {
+      color: white;
+      background-color: LightBlue;
+      padding: 20px;
+    }
+    
+     h2.yoo {
+       color: white;
+       background-color: LightBlue;
+       padding: 20px;
+      
+      }
+      body {
+       background-color:LightCyan;
+       }
+    
