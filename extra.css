@@ -33,17 +33,5 @@ h1 {
        padding: 20px;
       
       }
-      body {
-       background-color:LightCyan;
-       }
-     a:link, a:visited {
-    background-color: #A52A2A;
-    color: white;
-    padding: 14px 25px;
-    text-align: center;
-    }
-    
-    a:hover, a:active {
-    background-color: #B22222;
-    }
+      
      
