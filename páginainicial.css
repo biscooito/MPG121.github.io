@@ -32,8 +32,7 @@ h1 {
     } 
  	      
 	h1.mari {
-      color: white;
-      background-color: black;
+      color: Gray11;
       padding: 12px;
     }
     
@@ -44,8 +43,8 @@ h1 {
     }
     
      h2.yoo {
-       color: white;
-       background-color: black;
+       color: Gray21;
+       
 	padding: 12px;     
        
     }
@@ -53,6 +52,10 @@ h1 {
 		color: white;
 		
 	  }
+h3{
+color: Gray31;	
+}
+
      
    
     
